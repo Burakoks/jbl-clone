@@ -20,5 +20,6 @@ JBL Clone, modern ve şık bir tasarıma sahip, responsive bir web sitesi projes
 
 -Temiz ve okunabilir kod yapısı
 
+<h2>Ekran Görüntüsü</h2>
 ![](ekran.gif)
 
